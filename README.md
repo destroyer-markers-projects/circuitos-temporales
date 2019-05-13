@@ -58,8 +58,3 @@
 |Spray Pintura (*1)|---|---|
 
 (*1) Para la pintura he visto por internet que hay mucha variedad de colores/gustos a la hora de como pintarlo y que color utilizar.... yo he optado por utilizar Pintura Tamilla color plata X2, aplicada con aerografo.
-
-
-## Codigo
-
-El codigo para arduino se en cuentra en el siguiente repositorio de [github](https://github.com/maker-project/circuitos-temporales)
