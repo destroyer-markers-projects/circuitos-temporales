@@ -1,0 +1,12 @@
+/nbproject/private/
+/bin/
+/manifest.mf
+/nbproject/
+*nbproject*
+/build/
+lib/.DS_Store
+*.DS_Store
+.DS_Store
+node_modules/
+*node_modules*
+/node_modules
